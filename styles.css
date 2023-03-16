@@ -1,0 +1,66 @@
+*{
+    background-color: rgb(15, 14, 15);
+}
+.one{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    transform: rotate(40deg);
+    margin: 50px;
+    left:0px;
+}
+.two{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    float:right;
+    transform: rotate(40deg);
+}
+.three{
+    background-color: red;
+    transform: rotate(40deg);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 200px;
+    left:50px;
+}
+.four{
+    content: '';
+    position: absolute;
+    top: 0; right: 0;
+    border-top: 80px solid white;
+    border-left: 80px solid lightgreen;
+    width: 0;
+}
+.five{
+    background-color: #ffa36c;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+    left:0px;
+    position: relative;
+    animation-name: example;
+    animation-duration: 10s;
+}
+@keyframes example {
+  0%   {background-color:#625261; left:0px; top:0px;}
+  25%  {background-color:#f1e189; left:200px; top:0px;}
+  50%  {background-color:#0e918c; left:200px; top:200px;}
+  75%  {background-color:#cc0e74; left:0px; top:200px;}
+  100% {background-color:#f9813a; left:0px; top:0px;}
+}
+.six{
+
+}
+.elem:hover {
+    animation-name: rotate; 
+    animation-duration: 2s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes rotate {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
