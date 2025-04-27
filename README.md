@@ -4,10 +4,6 @@ A portfolio website template for campers
 
 ![Timi-Busayo](color-box.png.png)
 
-## Author
-
-[@Timi_Bee](https://www.twitter.com/Timi_Bee)
-
 ## Github repo
 
 This is the [link](https://github.com/TimiBee/skecht-box-animation) to the Github repo of the project
