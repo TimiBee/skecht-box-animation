@@ -11,9 +11,9 @@ This is the [link](https://github.com/TimiBee/skecht-box-animation)
 
 **Client:** HTML, CSS, 
 
-## Tools Used
+## T
 
-Below are are list of tools used, and the precise things they were used for:
+Below are are list of tools used, and the precise things they were used for: to the Github repo of the project
 
 
 ## Folder Structure
