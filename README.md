@@ -6,7 +6,7 @@ A portfolio website template for campers
 
 ## Github repo
 
-This is the [link](https://github.com/TimiBee/skecht-box-animation) to the Github repo of the project
+This is the [link](https://github.com/TimiBee/skecht-box-animation) 
 
 
 **Client:** HTML, CSS, 
