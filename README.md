@@ -1,6 +1,6 @@
 # skecht-box-animation
 rotating colored box
-
+A portfolio website template for campers
 
 ![Timi-Busayo](color-box.png.png)
 
